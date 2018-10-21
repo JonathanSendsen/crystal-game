@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(150, 207, 211) 
+}
+.diamond {
+    width: 90px;
+    height: 90px;
+    background: #1eff00;
+    margin: 50px;
+    padding: 0;
+/* Rotate */
+    transform: rotate(-45deg);
+}
+
+#red {
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d9534f;
+}
+#blue {
+    color: #fff;
+    background-color: #5bc0de;
+    border-color: #5bc0de;
+}
+#yellow {
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #f0ad4e;
+}
+#green {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+}
