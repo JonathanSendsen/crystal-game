@@ -6,7 +6,7 @@ body{
     height: 90px;
     background: #1eff00;
     margin: 50px;
-    padding: 0;
+    padding: 15px;
 /* Rotate */
     transform: rotate(-45deg);
 }
